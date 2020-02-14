@@ -16,8 +16,9 @@ Overall comments on grading questions:
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
     - The home page is pretty, but information-free.
-    - The Voting Information page is a little lengthy and could use a bit more internal structure.
+    - The Voting Information page has a lot to cover, and could be made into a couple of briefer pages.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
-    - That link color seems really jarring against the background for some reason.
+    - The link color is a bit jarring against the background.
+    - The footer would look more like a footer if it had a different background.
